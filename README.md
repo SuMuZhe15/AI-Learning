@@ -1,11 +1,4 @@
 # AI-Learning
 AI学习之旅
-在2026年国庆之前，已经完成了如下的学习：
-1.深度学习（斋藤康毅，小土堆）
-2，python基础
-3，Git和Github的应用
-正在开展的学习
-1，Transformer的原理与代码复现
+start learn git and github.
 
-目前的紧急任务是：
-在吉林大学找到好的导师，展开科研
